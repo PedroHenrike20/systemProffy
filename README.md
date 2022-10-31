@@ -12,7 +12,7 @@
 
 ## System Proffy
 <br>
-Um projeto incrível de uma das edições da NLW focado para educadores da área de programação. A aplicacao utiliza um banco Sqlite para armazenar os dados por meio de uma API server em NodeJS com Typescript.
+Um projeto incrível de uma das edições da NLW da Rocketseat focado para educadores e estudantes da área de programação. A aplicacao utiliza um banco Sqlite para armazenar os dados por meio de uma API server em NodeJS com Typescript.
 <br>
 <br>
 
