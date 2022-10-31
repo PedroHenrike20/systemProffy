@@ -16,6 +16,20 @@ Um projeto incrível de uma das edições da NLW da Rocketseat focado para educa
 <br>
 <br>
 
+## Suas Funcionalidades
+<br>
+<p>
+ ☑ Cadastro de um educador e sua especialização
+</p>
+<p>
+ ☑ Buscar uma tecnologia específica para estudar
+</p>
+<p>
+ ☑ Entrar em contato com o educador via Whatsapp
+</p>
+
+<br>
+
 <br>
 
 ## Tecnologias utilizadas
