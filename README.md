@@ -23,12 +23,12 @@ Um projeto incrível de uma das edições da NLW da Rocketseat focado para educa
 <!-- HTML -->
 <!-- REACT -->
 <div>
-<img align="center"  alt="HTML" width="80" height="80" src="https://codingthesmartway.com/wp-content/uploads/2017/12/logo_react-680x680.png" style="margin-right: 25px"/> <br> <br>
+<img align="center"  alt="React" width="80" height="80" src="https://codingthesmartway.com/wp-content/uploads/2017/12/logo_react-680x680.png" style="margin-right: 25px"/> <br> <br>
 <img align="center"  alt="HTML" width="80" height="80" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="margin-right: 25px"/> <br> <br>
 
 
 <!-- CSS -->
-<img align="center" alt="React" height="50" width="100" src="https://clipground.com/images/css-3-logo-clipart.jpg" style="margin-bottom: 150px"/> 
+<img align="center" alt="CSS" height="80" width="80" src="https://clipground.com/images/css-3-logo-clipart.jpg" style="margin-bottom: 150px"/> 
  </div>
 <br>
 <br>
